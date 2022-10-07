@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+body{
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 3px;
+}
+.caixa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.fundo{
+    
+    color: white;
+    font-weight: 500;
+    background-color: #222222;
+    border-radius: 10px;
+    padding: 0 10px 0 10px;
+}
+
+.btn2{
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 3px;
+}
